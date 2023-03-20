@@ -1,0 +1,12 @@
+0 Bad
+1 Bathroom
+2 Deaf
+3 Fine
+4 Good
+5 Like
+6 Maybe
+7 Sad
+8 You
+
+
+
