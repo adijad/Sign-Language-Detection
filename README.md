@@ -6,7 +6,7 @@ Communication is an essential part of human interaction. However, **deaf and mut
 
 This project introduces a **real-time hand gesture recognition system** that translates sign language into readable text or speech. The system **detects hand gestures using computer vision and deep learning techniques**, ensuring an accessible communication method for people with hearing or speech impairments.  
 
-### 🛠 Key Features  
+### Key Features  
 **Hand Gesture Recognition** → Detects hand movements and classifies gestures.  
 **Real-Time Processing** → Uses **OpenCV, TensorFlow, and CNNs** for instant predictions.  
 **Text & Speech Output** → Converts recognized gestures into readable text or synthesized speech.  
@@ -34,7 +34,7 @@ The system consists of **three main stages**:
 3. **Real-Time Gesture Recognition** → Uses a camera to detect and classify gestures in real time.  
 
 ### System Architecture Diagram  
-![System Architecture]([Block Diagram](https://github.com/adijad/Sign-Language-Detection/blob/main/Dataset/fig%201.png))  
+![System Architecture](https://github.com/adijad/Sign-Language-Detection/blob/main/Dataset/fig%201.png) 
 
 ---
 
