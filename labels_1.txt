@@ -1,9 +1,0 @@
-0 at
-1 What
-2 is
-3 your
-4 name
-5 Where
-6 the
-7 nearest
-8 mall
